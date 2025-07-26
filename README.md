@@ -34,7 +34,7 @@ Two concise cheat sheets for quick reference on networking fundamentals: **TCP**
 
 > *(Add an image preview if you want)*  
 > `assets/tcp-preview.png` 
-> ![Cheat Sheet Preview](assets/tcp-preview.png)
+> ![Cheat Sheet Preview](assets/tcp-ip-cheat-sheet.png)
 
 ---
 
